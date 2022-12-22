@@ -1,0 +1,12 @@
+D                                                                                        C
+D						                        		 C
+F     IBBBBBBBBBBBBBBBBBBBBBBBB      BBBBBB       BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBE
+D                                                                                        C
+D                               oooo        o - o                                        C
+D                               IBBJ        IBBBJ                                        C
+D                        ooo-         oooo       oooo              oo-o   2              C
+D                 ooo 2  IBBJ         IBBJ     2 IBBJ     oooo 2   IBBJ      2           C
+D                 IBJ      2        !    2         2      IBBJ      1      2     2       C
+D           EBF                     EBF o o o-o   2                IBJ           IBJ     C
+D     1   - CAD    1 -  1   - 1     CAD 2 1 EBF  1  2   1   -   1     1       1 -      * C
+HBBBBBBBBBBBGAHBBBBBBBBBBBBBBBBBBBBBGAHBBBBBGAHBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBG
